@@ -8,4 +8,6 @@ Verifying and publishing contract code on Block Explorers: 8:04:30
 
 Alchemy presentation: 8:07:25
 
+Hardhat possible env issues and solutions: 8:30:30
+
 Note to self: Ctrl + Shift + V opens a preview of this file
